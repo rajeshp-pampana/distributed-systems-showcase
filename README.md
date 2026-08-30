@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/840777e9-9a65-4164-9256-77d304495c72
+
 # Institutional AI Market Terminal & Data Pipeline
 
 An automated, privacy-first financial data pipeline and intelligence terminal. This system ingests daily multi-asset equity data, processes it locally, and leverages a local Large Language Model (Llama 3 via Ollama) to generate quantitative morning briefings.
